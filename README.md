@@ -11,7 +11,7 @@ This Repo Consists of the Student Examination System Mini Project at Console Lev
 Clone the project and Run
 
 ```bash
-  git clone https://github.com/ManyamSanjayKumarReddy/Railway-Reservation-System-Postgresql-and-Spring-Web-Framework.git
+  git clone https://github.com/ManyamSanjayKumarReddy/Student-Examination-System-Console-Level.git
 ```
 
 
